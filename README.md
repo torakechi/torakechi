@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Cristian, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Cristian, a full-time full-stack developer 🚀</div>  
   
 
 - 🔭 I’m currently working on my portfolio site  
